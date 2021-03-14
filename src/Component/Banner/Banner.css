@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+h1, h2, h3 {
+   font-family: 'Oswald', sans-serif;
+}
+.bannerSection{
+   background: linear-gradient( rgba(29, 30, 48, 0.5) 100%, rgba(29, 30, 48, 0.5)100%),url('../../Image/banner2.jpg');
+   background-size: cover;
+   height: 100vh;
+   margin-bottom: 60px;
+}
+.bannerSection2{
+   background: linear-gradient( rgba(29, 30, 48, 0.5) 100%, rgba(29, 30, 48, 0.5)100%),url('../../Image/banner2.jpg');
+   background-size: cover;
+   background-position: center;
+   height: 60vh;
+   margin-bottom: 60px;
+}
+.titleSection{
+   margin-top: 25vh;
+   color: white;
+}
+.titleSection h1{
+   font-size: 75px !important;
+   margin-bottom:15px;
+}
+.titleSection p{
+   text-align: justify;
+}
+.joinUsBtn {
+   background-color: orange !important;
+   color: black !important;
+   font-size: 20px !important;
+   padding: 8px 50px !important;
+   margin-top: 20px !important;
+   font-family: 'Oswald', sans-serif !important;
+   font-weight: bold !important;
+}
+@media only screen and (max-width: 576px) {
+   .titleSection h1{
+      font-family: 'Oswald', sans-serif;
+      font-size: 60px !important;
+      margin-bottom:15px;
+   }
+}
+@media only screen and (max-width: 400px) {
+   .titleSection h1{
+      font-family: 'Oswald', sans-serif;
+      font-size: 55px !important;
+      margin-bottom:15px;
+   }
+}
+a {
+   text-decoration: none;
+}
+.BannerTitle{
+   color: white;
+   padding-top: 200px;
+   font-size: 50px;
+}

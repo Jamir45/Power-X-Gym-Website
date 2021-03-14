@@ -1,0 +1,23 @@
+.trainingDetailsImg{
+   height: 500px;
+}
+.featureList li{
+   font-size: 17px;
+   font-weight: 500;
+   margin: 15px 0px;
+}
+
+.schedule {
+   padding: 18px 20px;
+   margin: 13px 0px;
+   box-shadow: 0px 1px 7px 1px lightgrey;
+   border-radius: 5px;
+}
+@media only screen and (min-width: 768px) {
+   .Details {
+      padding-right: 40px;
+   }
+}
+.Details p {
+   text-align: justify;
+}

@@ -1,0 +1,20 @@
+.featureTitle {
+   text-align: center;
+}
+.featureBox{
+   text-align: center;
+   height: 350px;
+   color: white;
+   padding: 80px 20px;
+   margin: 20px 0px;
+}
+
+.featureIcon{
+   width: 40px !important;
+   margin-bottom: 30px;
+}
+.featureIcon2{
+   width: 70px !important;
+   margin-top: 15px;
+   margin-bottom: 35px;
+}

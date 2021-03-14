@@ -1,0 +1,40 @@
+.membershipForm{
+   padding: 20px 15px;
+   background-color: rgb(235, 235, 235);
+   box-shadow: rgba(50, 50, 93, 0.109804) 0px 4px 6px,
+     rgba(0, 0, 0, 0.0784314) 0px 1px 3px;
+}
+.inputBox {
+   width: 50%;
+   margin: 10px 5px;
+}
+
+.inputBox select {
+   padding: 13px 4px !important;
+   font-size: 18px
+}
+.inputBox span {
+   color: red;
+}
+input, select, .StripeElement {
+   display: block;
+   margin: 10px 0px;
+   width: 100%;
+   padding: 12px 3px !important;
+   box-shadow: rgba(50, 50, 93, 0.14902) 0px 1px 3px,
+     rgba(0, 0, 0, 0.0196078) 0px 1px 0px;
+   border: 0;
+   outline: 0;
+   border-radius: 4px;
+   background: white;
+ }
+.CardField.CardField--ltr {
+   font-size: 18x;
+}
+.nextPrevBtn{
+   margin-top: 50px;
+   text-align: center;
+}
+.nextPrevBtn button{
+   margin: 0px 10px;
+}

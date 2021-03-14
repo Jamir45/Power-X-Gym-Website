@@ -1,0 +1,44 @@
+.collapseSlide{
+   transition: all 1s !important;
+   transform: scaleY(0.6);
+}
+
+@media only screen and (min-width: 768px) {
+   .navbar-expand-md .navbar-nav {
+      flex-direction: row;
+      margin-left: auto !important;
+   }
+}
+.navbar-brand {
+   color: white;
+   margin-right: 1rem;
+   font-size: 1.7rem;
+   text-decoration: none;
+   white-space: nowrap;
+}
+
+.navBar a:hover {
+   color: white;
+}
+.navBar ul li {
+   margin: 0px 10px;
+}
+.navBar ul li a {
+   color: white;
+   font-size: 17px !important;
+}
+.navBar ul li a:hover {
+   color: orange;
+}
+/* .navBar button {
+   border: 1px solid white;
+}
+.navBar button:focus {
+   outline: none;
+}
+.navBar button span {
+   color: white;
+} */
+.borderWhite{
+   border: 1px solid white;
+}

@@ -1,0 +1,40 @@
+.pricingBox{
+   text-align: center;
+   height: 520px;
+   color: white;
+   padding: 40px 20px;
+   margin: 20px 10px;
+}
+.pricingBox h3{
+   color: orange;
+   font-size: 15px;
+}
+.pricingBox h2{
+   font-size: 28;
+   font-weight: 600;
+}
+.pricingBox h1{
+   color: orange;
+   font-size: 50px;
+   font-weight: 600;
+}
+
+ul.List {
+   text-align: left !important;
+   padding-left: 23% !important;
+   list-style: none;
+   margin-top: 30px;
+}
+ul.List li {
+   padding: 7px 0px;
+}
+.purchaseBtn {
+   background-color: orange !important;
+   color: black !important;
+   font-size: 20px !important;
+   padding: 5px 30px !important;
+   border-radius: 0px !important;
+   margin-top: 5px !important;
+   font-family: 'Oswald', sans-serif !important;
+   font-weight: bold !important;
+}
