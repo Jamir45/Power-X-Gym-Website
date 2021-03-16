@@ -8,7 +8,7 @@ This is a Gym Organization Website. Where people are able to see their training 
 * People can see training programs.
 * Choose the perfect training for them.
 * Purchase the training programs for the membership.
-* Pay online using your credit card.
+* Pay online using users credit cards.
 
 ### Technology Used : 
 * Bootstrap4
